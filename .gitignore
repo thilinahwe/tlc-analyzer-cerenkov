@@ -1,0 +1,20 @@
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+# Python / backend
+backend/.venv/
+__pycache__/
+# OS/editor
+.DS_Store
+*.swp
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+# Python / backend
+backend/.venv/
+__pycache__/
+# OS/editor
+.DS_Store
+*.swp
